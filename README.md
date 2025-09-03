@@ -6,7 +6,7 @@ Welcome to BDA594_Resource_Sharing repository. This project is created for BDA 5
 # Datasets Sources
 1. [GHDx](https://ghdx.healthdata.org/)<br/>
    
-   **Overview:** GHDx, also known as Global Health Data Exchange, is a collection of surveys, statistics, and health-related data created and maintained by the Institute for Health Metrics and Evaluation.<br/>
+   **Overview:** GHDx is one of the sources for data recommended by awesome-datascience. GHDx, also known as Global Health Data Exchange, is a platform that host collections of health surveys, statistics, and data. The Institute for Health Metrics and Evaluation is the organization behind the creation and support of the platform.<br/>
    
    **Example Dataset:** [COVID-19 Behavior Tracker 2020-2022](https://ghdx.healthdata.org/record/covid-19-behavior-tracker-2020-2022)<br/>
    
